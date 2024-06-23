@@ -12,4 +12,8 @@ _ search in wikipedia<br />
 you will need to install some libraries before you get started<br />
 to install libraried<br />
 -open cmd or terminal in your vs studio or also can use powershell
+<br />
+py -m pip install pyttsx3 <br />
+py -m pip install speechrecognition<br />
+py -m pip install wikipedia<br />
 
