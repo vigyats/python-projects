@@ -13,7 +13,4 @@ till this daate version 1.0.0 of ryzen is devloped and tested
 you will need to install some libraries before you get started
 steps to install libraried
 -open cmd or terminal in your vs studio or also can use powershell
-pip install pyaudio
-pip install speechrecognition
-pip install pyttsx3
-pip install wikipedia
+
